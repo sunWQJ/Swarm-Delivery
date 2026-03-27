@@ -1,4 +1,4 @@
-# Swarm-Delivery
+# Swarm-Delivery Protocol
 **A Decentralized, Zero-Fee Food Delivery & Local Life Protocol Powered by AI Agents**
 
 🐝 **Swarm-Delivery Protocol**
@@ -64,7 +64,7 @@ Please put forward your architectural suggestions in [Issues], or submit [Pull R
 
 ---
 
-# 蜂群配送协议 Swarm-Delivery
+# 蜂群配送协议 Swarm-Delivery Protocol
 **基于 AI Agent 的去中心化、零抽成外卖与本地生活协议**
 
 🐝 **Swarm-Delivery Protocol (蜂群协议)**
